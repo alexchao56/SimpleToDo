@@ -6,3 +6,5 @@ Completed user stories:
 *  User can click a task to edit it. 
 
 User tasks are save in a SQLite database. 
+
+![test gif](https://raw.githubusercontent.com/alexchao56/SimpleToDo/master/test.gif)
